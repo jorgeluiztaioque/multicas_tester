@@ -2,4 +2,4 @@
 
 USAGE: ./mctester.py [multicast_gropu] [destination_port]
 
-Lile : ./mctester.py 235.0.0.1 10000
+  Like : ./mctester.py 235.0.0.1 10000
